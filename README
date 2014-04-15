@@ -1,0 +1,7 @@
+Python script that checks the device file for botton code.
+For each code it will do some actions in the system.
+
+USAGE:
+
+Just start the script in cmd or put it to autostart.
+Infinity loop will check the device file all the time. 
