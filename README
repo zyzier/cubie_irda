@@ -1,7 +1,14 @@
 Python script that checks the device file for botton code.
 For each code it will do some actions in the system.
 
+Main:
+cubie_irda.py -- main script
+
+Optional:
+irda_scan_botton.py -- script for grubbing botton code to a file for future use.
+It can be usefull for detecting the botton code for using in main script.
+
 USAGE:
 
 Just start the script in cmd or put it to autostart.
-Infinity loop will check the device file all the time. 
+Infinity loop will check the device file all the time.
